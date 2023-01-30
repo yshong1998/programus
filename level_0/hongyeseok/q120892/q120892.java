@@ -1,5 +1,7 @@
 package level_0.hongyeseok.q120892;
 
+import java.util.Arrays;
+
 /**
  * 문제 설명
  * 군 전략가 머쓱이는 전쟁 중 적군이 다음과 같은 암호 체계를 사용한다는 것을 알아냈습니다.
@@ -23,6 +25,7 @@ public class q120892 {
     public static void main(String[] args) {
         String cipher = "dfjardstddetckdaccccdegk";
         System.out.println(Solution.solution(cipher,4));
+
 
     }
 }

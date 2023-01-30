@@ -8,7 +8,7 @@ import java.util.Set;
 public class Sampling {
     public static void main(String[] args) {
         // 사람 이름 저장한 배열 선언
-        String[] people = new String[] {"이재훈", "김도연", "홍예석", "강혜광", "이승렬", "서리하", "김나현", "김진원", "황원준","조민성","김현호"};
+        String[] people = new String[] {"황원준", "오세영", "이승렬" ,"김도연" ,"강혜광" ,"이건호" ,"이재훈" ,"홍예석"};
         Random random = new Random();
 
         //중복되지 않는 난수를 생성하고 저장할 randomNumbers 선언
